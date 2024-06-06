@@ -1,6 +1,6 @@
 # Software for online store
 Welcome to my project, which was developed for working with online store prices and also to demonstrate your skills in writing code.
-# Zadanie
+# Task
 
 * Jeśli wartość zamówienia jest większa niż np. 300 zł klient otrzymuje 5% zniżki na zakupione towary
 * "3 w cenie 2" - Jeśli klient kupi conajmniej 3 produkty to 3 najtańszy otrzymuje gratis
